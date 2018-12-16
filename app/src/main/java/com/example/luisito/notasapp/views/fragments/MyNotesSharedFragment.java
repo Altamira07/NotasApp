@@ -28,7 +28,6 @@ import java.util.List;
  */
 public class MyNotesSharedFragment extends Fragment implements MyNotesSharedView {
     private View rootView;
-
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;

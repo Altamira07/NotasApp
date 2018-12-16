@@ -11,7 +11,7 @@ import java.security.NoSuchAlgorithmException;
 public class Util
 {
     public static String TOKEN = "";
-    public static String URL = "http://192.168.1.84:3000/";
+    public static String URL = "http://172.20.142.106:3000/";
     public static String md5(String s)
     {
         String hashtext = "";
